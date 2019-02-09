@@ -1,0 +1,34 @@
+10003	Digital Signal Processing
+10004	Engineering Project (Part A)
+10006	Engineering Work Experience (0cp)
+9826	ICT and Engineering Research Methods
+8696	Data Analytics and Business Intelligence
+10005	Engineering Project (Part B)
+8233	Communication Theory
+9788	Contemporary IT & E Issues
+7160	Game Programming Techniques
+8227	Wireless Networks
+8231	Embedded Systems
+9789	Technology and Engineering Management
+7168	Soft Computing
+8019	Computer and Network Security
+8235	Signals and Systems
+9428	Network Architecture
+7170	Software Technology 2
+7171	System Software
+8878	Mobile Technologies
+7175	Web Design and Programming
+6365	Systems Analysis and Modelling
+7167	Security and Support in IT
+8224	Electronics Systems
+5531	Introduction to Software Engineering
+5915	Database Design
+8225	Engineering Mathematics 2
+8741	Introduction to Network Engineering
+4483	Software Technology 1
+8222	Engineering Mathematics 1
+8223	Introduction to Computer Engineering
+8228	Engineering Management 2A
+6698	Discrete Mathematics (fulfilled by 8222 Engineering Mathematics 1)
+10087	Engineering Mathematics (fulfilled by Engineering Mathematics 2)
+4478	Introduction to Information Technology (fulfilled by Introduction to Software Engineering 5531)
